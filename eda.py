@@ -8,11 +8,9 @@ CODE FROM https://github.com/Ali-Alhamaly/Turbofan_usefull_life_prediction/blob/
 """
 
 import pandas as pd
-import os
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import importlib
 #import plot_helper as plt_hlp
 #importlib.reload(plt_hlp); # so that I can use plot_helper without reloading the notebook kernel each time 
 
